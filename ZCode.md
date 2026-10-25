@@ -1,11 +1,9 @@
 # Aggiornare i modelli CommandCode in ZCode
 
-Non ho trovato una pagina ufficiale per il piano GOAT e per la creazione della API key: i passaggi 1.2 e 1.3 vanno verificati sul sito.
-
 ## 1. Piano GOAT e API key di CommandCode
-1. Apri il sito di CommandCode: <https://commandcode.ai>.
-2. Accedi o registrati e attiva il piano **GOAT** (circa $10 al mese per $70 di credito, secondo un [confronto di terze parti](https://aireiter.com/coding-plan/vs-command-code): verifica sul sito).
-3. Dalla dashboard crea una **API key** e copiala subito. La documentazione dei provider dovrebbe essere su `commandcode.ai/docs/provider` (vedi la [pagina di Mastra](https://mastra.ai/models/providers/commandcode)).
+1. Apri la pagina del piano GOAT: <https://commandcode.ai/docs/plans/goat>.
+2. Accedi o registrati e attiva il piano **GOAT** (circa $10 al mese per $70 di credito, secondo un [confronto di terze parti](https://aireiter.com/coding-plan/vs-command-code): verifica sulla pagina del piano).
+3. Dalla dashboard di <https://commandcode.ai> crea una **API key** e copiala subito. La documentazione dei provider dovrebbe essere su `commandcode.ai/docs/provider` (vedi la [pagina di Mastra](https://mastra.ai/models/providers/commandcode)).
 4. Conserva la chiave in un posto sicuro: serve al punto 4.
 
 ## 2. Scaricare e installare ZCode
